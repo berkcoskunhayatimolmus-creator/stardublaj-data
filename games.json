@@ -1,0 +1,26 @@
+[
+  {
+    "id": "garten-of-banban-2",
+    "title": "Garten Of Banban 2",
+    "description": "Banban Anaokulu'nun hikayesine devam edin. Şüpheli bir şekilde boş bırakılan bu tuhaf kurumun derinliklerine inin. Beklenmedik sakinlerle başa çıkmaya çalışırken, mekanın ardındaki gerçeği de ortaya çıkarın…\n\n\nBanban Anaokulunun yeraltı dünyasını keşfedin: Banban Anaokulunun devasa bir yeraltı tesisi olduğu ortaya çıktı! Kim tahmin edebilirdi ki! Ne yazık ki, bu keşif acı verici oldu, çünkü merakınız asansörünüzün kaza yapmasına neden oldu. Şimdi bu yeni bölgeyi keşfetmeli, yerin ardındaki korkunç gerçeği ortaya çıkarmalı ve canınızı kurtararak kaçmalısınız.\n\n\nDaha çok arkadaş edinme fırsatı! Banban Anaokulu'nda arkadaş edinme potansiyeli sınırsız! İlk Banban Anaokulu'nda edindiğiniz arkadaşlar, edinebileceğiniz arkadaşların sadece küçük bir kısmıydı ve ilk oyunun olaylarından sonra çok daha derin bir odada mahsur kaldığınıza göre, kesinlikle daha çok arkadaş edineceksiniz!",
+    "cover": "https://raw.githubusercontent.com/berkcoskunhayatimolmus-creator/stardublaj-data/main/images/garten-of-banban-2.png",
+    "team": "ortak",
+    "genres": [
+      "Korku",
+      "Bulmaca",
+      "Macera"
+    ],
+    "access": "free",
+    "parts": [],
+    "stores": [
+      "steam"
+    ],
+    "version": "0.2",
+    "size": "",
+    "date": "2026-11-16",
+    "download_url": "",
+    "exe_name": "Garten of Banban 2.exe",
+    "notes": [],
+    "status": "yakinda"
+  }
+]
