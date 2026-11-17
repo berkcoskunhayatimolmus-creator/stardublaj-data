@@ -4,7 +4,7 @@
     "title": "Garten Of Banban 2",
     "description": "Banban Anaokulu'nun hikayesine devam edin. Şüpheli bir şekilde boş bırakılan bu tuhaf kurumun derinliklerine inin. Beklenmedik sakinlerle başa çıkmaya çalışırken, mekanın ardındaki gerçeği de ortaya çıkarın…\n\n\nBanban Anaokulunun yeraltı dünyasını keşfedin: Banban Anaokulunun devasa bir yeraltı tesisi olduğu ortaya çıktı! Kim tahmin edebilirdi ki! Ne yazık ki, bu keşif acı verici oldu, çünkü merakınız asansörünüzün kaza yapmasına neden oldu. Şimdi bu yeni bölgeyi keşfetmeli, yerin ardındaki korkunç gerçeği ortaya çıkarmalı ve canınızı kurtararak kaçmalısınız.\n\n\nDaha çok arkadaş edinme fırsatı! Banban Anaokulu'nda arkadaş edinme potansiyeli sınırsız! İlk Banban Anaokulu'nda edindiğiniz arkadaşlar, edinebileceğiniz arkadaşların sadece küçük bir kısmıydı ve ilk oyunun olaylarından sonra çok daha derin bir odada mahsur kaldığınıza göre, kesinlikle daha çok arkadaş edineceksiniz!",
     "cover": "https://raw.githubusercontent.com/berkcoskunhayatimolmus-creator/stardublaj-data/main/images/garten-of-banban-2.png",
-    "team": "star-dublaj",
+    "team": "ortak",
     "genres": [
       "Korku",
       "Bulmaca",
@@ -28,6 +28,10 @@
       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2262770/ss_f590d04961100c6c92abd1f25a087d1d8e42d733.1920x1080.jpg?t=1751060745",
       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2262770/ss_4e31cc29bbed91093961238ee3f191940ad0af4e.1920x1080.jpg?t=1751060745"
     ],
-    "partners": []
+    "partners": [
+      "star-dublaj",
+      "mr-dublaj",
+      "diger"
+    ]
   }
 ]
