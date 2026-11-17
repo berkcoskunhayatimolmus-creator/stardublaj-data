@@ -144,5 +144,41 @@
       "star-dublaj",
       "mr-dublaj"
     ]
+  },
+  {
+    "id": "fnf-vs-rewrite",
+    "title": "Fnf:Vs Rewrite",
+    "description": "Bu mod intihar temaları içermektedir.\n\n2. Tura hazır mısınız?\n\n2 yeni parçada Sonic the Hedgehog'a karşı şarkı söyleyin!\nHazır mısınız?\n\nBu mod düşük özellikli bilgisayarlarda kötü çalışabilir, düzgün çalışması için en az 8 GB RAM'e sahip olmanız önerilir.",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdyd39g0bG0YV9LaijdJ-VraWq5SOdI-GJdK3EGWCzFQ&s=10",
+    "trailer": "",
+    "screenshots": [
+      "https://images.gamebanana.com/img/ss/mods/sgi_common_thumbs_684981c1d25d1_530.webp",
+      "https://images.gamebanana.com/img/ss/mods/sgi_common_thumbs_684981e908b1b_100.webp",
+      "https://images.gamebanana.com/img/ss/mods/sgi_common_thumbs_6849820d2ba95_100.webp",
+      "https://images.gamebanana.com/img/ss/mods/sgi_common_thumbs_6849d81292e00_100.webp",
+      "https://images.gamebanana.com/img/ss/mods/sgi_common_thumbs_684982362219c_100.webp"
+    ],
+    "team": "mr-dublaj",
+    "genres": [
+      "Korku",
+      "Aksiyon",
+      "Macera",
+      "Strateji",
+      "Simülasyon",
+      "Dövüş"
+    ],
+    "access": "free",
+    "parts": [],
+    "stores": [
+      "steam"
+    ],
+    "version": "1.0",
+    "size": "",
+    "date": "2026-11-17",
+    "download_url": "",
+    "exe_name": "dsdsfdsdsf",
+    "notes": [],
+    "status": "active",
+    "partners": []
   }
 ]
