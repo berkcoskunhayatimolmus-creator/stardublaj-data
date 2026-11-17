@@ -108,5 +108,41 @@
       "star-dublaj",
       "mr-dublaj"
     ]
+  },
+  {
+    "id": "indigo-park",
+    "title": "Indigo Park",
+    "description": "Indigo Park'a Hoş Geldiniz!\n\nIndigo Park, sizi terk edilmiş bir eğlence parkının ürkütücü kalıntıları arasında heyecan verici bir yolculuğa çıkaran, sürükleyici bir birinci şahıs keşif oyunudur. Kahraman olarak, bir zamanlar canlı ve hareketli olan bu eğlence parkının içinde saklı gizemleri ortaya çıkarmaya hevesli bir maceracının yerine geçeceksiniz.\n\nZamanın durduğu ve doğanın topraklarını geri aldığı ıssız bir dünyayı keşfedin. Bir zamanlar neşeli kahkahalar ve müzikle dolu olan eğlence parkı, şimdi ürpertici bir sessizlik ve solmuş anılarla yankılanıyor. Bir yapay zeka asistanı* tarafından yönlendirilen Indigo Park, yıkılan eğlence parkına elektriği geri getirmeye yardım ederken, kapanmasının nedenini de göz ardı edin.\n\nBir zamanlar dünyanın en ünlü tema parklarından biri olan Indigo Park, gizemli ve korkunç bir olaydan sonra aniden kapatıldı. Yıllar sonra, nostalji arayışında, terk edilmiş eğlence mekanlarını keşfetmek için parka giriyorsunuz. Burayı hatırlıyor olabilirsiniz, ancak özel bir yapay zeka dostundan* yardım almanız gerekecek.\n\n\n\nRambley ile tanışın!\n\nDaha önce parkın yapay zekâ destekli* tur rehberi olan rakun Rambley, sizinle iletişim kurmak için parkın ekranlarını ve diğer unsurlarını devralacak! Rambley'nin rehberliğinde parkı keşfedin, koleksiyon eşyaları bulun, sırları ortaya çıkarın ve parkın neden kapatıldığını öğrenin! Eşyaları bulun, bulmacaları çözün ve parkın kapanmasının sebebinden kaçarken parka elektriği geri getirin.\n\n*Rambley, yapay zekâ karakteri kurgusal bir eserdir ve gerçek \"yapay zekâ\" kullanmaz, bunun yerine oyuncuyla iletişim kurmak için çarpıcı 2D animasyon ve seslendirme kullanır.\n\n\n\nKeşfedin!\nBu birinci şahıs korku deneyiminde, terk edilmiş ortamı keşfedeceksiniz. Rambley'nin rehberliğinde, bu yıkık duvarların içinde saklı sırları ortaya çıkarın. Heyecan verici bir koleksiyon sistemi, park sakinleriyle gerilim dolu karşılaşmalar ve daha fazlasını içeriyor!",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXdMqE_7D7XATFaxOMMd4xCDe7le7_EvwN-H6BQ37ENQ&s=10",
+    "trailer": "https://github.com/berkcoskunhayatimolmus-creator/stardublaj-data/releases/download/indigo-park-media/indigo-park_trailer.mp4",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2504480/ss_1c40e6cd1df6818f956963179ceba38e091a0f0b.1920x1080.jpg?t=1779857498",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2504480/ss_f3319ff9829408ddf370d19843a20761dcbd9e89.1920x1080.jpg?t=1779857498",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2504480/ss_7f127db7726f4a36d667e33077f4ec6e3717b810.1920x1080.jpg?t=1779857498",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2504480/ss_972aa6e4c95c761f309dd08e04598e630b100486.1920x1080.jpg?t=1779857498",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2504480/ss_306707ee14ffa6b4d94e4ca6484459fcc7becd53.1920x1080.jpg?t=1779857498"
+    ],
+    "team": "ortak",
+    "genres": [
+      "Korku",
+      "Macera",
+      "Bulmaca"
+    ],
+    "access": "free",
+    "parts": [],
+    "stores": [
+      "steam"
+    ],
+    "version": "1.0",
+    "size": "",
+    "date": "2026-11-17",
+    "download_url": "",
+    "exe_name": "RaccoonCh1.exe",
+    "notes": [],
+    "status": "active",
+    "partners": [
+      "star-dublaj",
+      "mr-dublaj"
+    ]
   }
 ]
