@@ -72,5 +72,41 @@
       "mr-dublaj",
       "diger"
     ]
+  },
+  {
+    "id": "amanda-the-adventurer",
+    "title": "Amanda The Adventurer",
+    "description": "Kate Teyzesinin evi miras kaldıktan sonra Riley Park, yalnız yaşayan bu kadının neler bıraktığını araştırmaya başlar. Riley, çatı arasında eski bir televizyonun yanında bir dizi VHS kaset bulunca şaşırır. Kasetlerin üzerinde içerikleri değil sadece bölüm numaraları yazmaktadır. Merak içinde olan Riley, ilk kaseti hemen oynatıcıya takar.\n\nRiley, 2000'li yılların başında yayınlanmış ve daha önce hiç görmediği bir çizgi film ile karşılaşır. Yerel televizyonda yapıldığı aşikâr olan programda Amanda isminde küçük bir kız ve yanında sadık ancak utangaç olan en iyi arkadaşı Koyun Wooly bulunmaktadır. Bölüm, ilk bakışta hoş ve basit görünse de Riley bir süre sonra Amanda ve Wooly'nin televizyonda direkt olarak iletişime geçtiğini fark edince kendini rahatsız hisseder. Zihninin derinliklerinde kemirici bir his, durmasını söylese de Riley, kasetleri izlemeye devam eder. Sanki Amanda'nın bir şeye ihtiyacı varmış gibi görünür ve Riley de bu şeyin ne olduğunu bulmaya kendini kaptırır.\n\nÖzellikler\n\nKısa olsa da detaylarla dolu bir korku deneyimi\n\nSevimli bir çizgi film kisvesi altında görünen kasetler, ürkütücü bir hikâyeyi anlatacak\n\nBasit animasyon dönemini hatırlatan, klasik ve 90'lar tarzı bir CGI\n\nİzleyici ile doğrudan etkileşime geçen karakterler, tüm 90'lar çocuklarının hayalini mi gerçekleştirecek... yoksa bir kâbusa mı dönüşecek?\n\nKasetlerde gizli olan ipuçlarını kullanan, zorlayıcı, kaçış odası tarzı bulmacalar\n\nO GERÇEK.\n\nAmanda the Adventurer'ın dostane ve renkli yüzünün ardından ne gizli? Bu kasetler kime ait? Aradığın cevapları bulmak, ödediğin bedele değecek mi?",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW4DOkWabkFNNC9ameUzg9kbXLePdkCCRCTdVd-kLvew&s=10",
+    "trailer": "https://github.com/berkcoskunhayatimolmus-creator/stardublaj-data/releases/download/amanda-the-adventurer-media/amanda-the-adventurer_trailer.mp4",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2166060/ss_9f60e9e62bee830aae88d413f1eb69c9f7c185db.1920x1080.jpg?t=1730134058",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2166060/ss_4ea18714d29439d2af406178f771978b8c3ea61b.1920x1080.jpg?t=1730134058",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2166060/ss_43cfe61caa88310e7d1e32f96aad6ab215e06b9c.1920x1080.jpg?t=1730134058",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2166060/ss_47f3564b25b21a243211f9ea069ff6c9f06c94ca.1920x1080.jpg?t=1730134058",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2166060/ss_508454bb2d1fcb3afd87200158f4fa608d58bde5.1920x1080.jpg?t=1730134058"
+    ],
+    "team": "ortak",
+    "genres": [
+      "Korku",
+      "Macera",
+      "Bulmaca"
+    ],
+    "access": "free",
+    "parts": [],
+    "stores": [
+      "steam"
+    ],
+    "version": "1.0",
+    "size": "",
+    "date": "2026-11-17",
+    "download_url": "",
+    "exe_name": "Amanda The Adventurer.exe",
+    "notes": [],
+    "status": "active",
+    "partners": [
+      "star-dublaj",
+      "mr-dublaj"
+    ]
   }
 ]
