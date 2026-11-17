@@ -33,5 +33,44 @@
       "mr-dublaj",
       "diger"
     ]
+  },
+  {
+    "id": "portal-2",
+    "title": "Portal 2",
+    "description": "Portal 2, 70'in üzerinde ödül alan ve tutkulu takipçilere sahip olan Portal'ın yenilikçi oynanışından, hikâyesinden, müziğinden güç alıyor.\n\nTek oyunculu bölümünde Portal 2, canlı ve yeni karakterlerden oluşan bir kadro, yeni bulmaca unsurları ve çok daha büyük, sinsice hazırlanmış deney odaları sunuyor. Oyuncular, Aperture Science Laboratuvarlarının ilk oyunda onları yönlendiren ölüm saçan bilgisayar GLaDOS ile yeniden bir araya gelecek ve daha önce görülmemiş deney odalarını keşfedecekler.\n\nOyunun iki kişilik eşli oyun modu ise, eşsiz bir hikâyeye, test odalarına ve iki yeni karaktere sahip baştan aşağı ayrı bir senaryo sunuyor. Bu yeni mod, oyuncuları, portallar hakkında bildiklerini düşündükleri her şeyi tekrar düşünmeye zorlayacak. Başarıya ulaşmak için sadece birlikte hareket etmeleri değil, aynı zamanda da birlikte düşünmeleri gerekecek.\n\nÜrün Özellikleri\nKapsamlı tek oyunculu mod: Yeni nesil oynanış ve ilgi çekici hikâye.\nİki kişilik eşli hikâye: Kendine ait bir hikâyeye, karakterlere ve oynanışa sahip eşli oyun modu.\nİleri düzey fizik kuralları: Bambaşka çeşitlilikte ilginç mücadelelerin oluşturulabimesine olanak tanıyor ve daha uzun ama aynı zorlukta bir oyun sunuyor.\nOrijinal müzikler.\nMuazzam devam oyunu: İlk oyun dünya çapındaki 30'dan fazla yayın kuruluşu tarafından 2007'nin en iyi oyunu seçildi.\nDüzenleme araçları: Portal 2 düzenleme araçlarını da içerir.",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkeaeogj9aknqEj3w-xOZFu9YwnoxcjoGrn9Ds0bQpQw&s=10",
+    "trailer": "https://github.com/berkcoskunhayatimolmus-creator/stardublaj-data/releases/download/portal-2-media/portal-2_trailer.mp4",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/ss_f3f6787d74739d3b2ec8a484b5c994b3d31ef325.1920x1080.jpg?t=1790187113",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/ss_6a4f5afdaa98402de9cf0b59fed27bab3256a6f4.1920x1080.jpg?t=1790187113",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/ss_0cdd90fafc160b52d08b303d205f9fd4e83cf164.1920x1080.jpg?t=1790187113",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/ss_8a772608d29ffd56ac013d2ac7c4388b96e87a21.1920x1080.jpg?t=1790187113",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/ss_3d13161104a04603a0524536770c5f74626db4c0.1920x1080.jpg?t=1790187113"
+    ],
+    "team": "ortak",
+    "genres": [
+      "Aksiyon",
+      "Macera",
+      "Simülasyon",
+      "Bulmaca",
+      "FPS"
+    ],
+    "access": "free",
+    "parts": [],
+    "stores": [
+      "steam"
+    ],
+    "version": "1.0",
+    "size": "",
+    "date": "2026-11-17",
+    "download_url": "",
+    "exe_name": "portal2.exe",
+    "notes": [],
+    "status": "yakinda",
+    "partners": [
+      "star-dublaj",
+      "mr-dublaj",
+      "diger"
+    ]
   }
 ]
